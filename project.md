@@ -1,5 +1,5 @@
 
-# 🚀 **FinNami **
+# 🚀FinNami
 
 ## **Project Overview**
 
